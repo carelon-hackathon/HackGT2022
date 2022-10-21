@@ -24,6 +24,10 @@ We are looking for innovative hacks that:
 
 * Whatever else you come up with that can contribute to this revolution in improving overall health and well-being! 
 
+## AWS Free Credits 
+
+**$400** free credits available for the first 20 teams requesting them. 
+Follow the instructions in `aws_free_credits_instructions.pdf`.
 ## Evaluation Criteria
 
 **Innovation - 33%**
