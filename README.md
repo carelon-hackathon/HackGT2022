@@ -7,6 +7,10 @@ Hello Hackers!
 
 The hackathon is organized by Carelon's Exponential Health Products and Technologies and Health Platforms teams. We are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
 
+# Prizes
+
+![Prizes](.resources/prizes.png?raw=true "Prizes")
+
 # Main Challenge
 ## Healthcare Of The Future
 
