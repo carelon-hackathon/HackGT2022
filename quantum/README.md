@@ -1,4 +1,4 @@
-![Carelon Digital Platforms Logo](.resources/cdp_sm_h_rgb_c.png?raw=true "Logo")
+![Carelon Digital Platforms Logo](../.resources/cdp_sm_h_rgb_c.png?raw=true "Logo")
 
 ## Quantum Computing: Primer and Machine Learning Tech Talk
 
